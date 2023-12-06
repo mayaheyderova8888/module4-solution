@@ -58,7 +58,7 @@ function Goster(){
 document.getElementsByTagName("table")[0].innerHTML = tbl;
 }
 
-let yup = new Sirket("YupTechnology");
+let yup = new Sirket("Workers list");
 onload = function(){
     let h1 = document.getElementsByTagName("h1")[0];
      let tbl = document.getElementsByTagName("table")[0];
